@@ -1,1 +1,1 @@
-# linphone
+# linphone android build project
